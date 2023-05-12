@@ -94,3 +94,4 @@ function esNumeroPerfecto(n){
     }
     return acum==n;
 }
+
